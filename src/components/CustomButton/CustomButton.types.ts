@@ -1,4 +1,5 @@
-import react, { ReactNode } from "react";
+import { ReactNode } from "react";
+
 export interface CustomButtonProps {
   onClick: () => void;
   typeBtn?: "button" | "submit" | "reset";
