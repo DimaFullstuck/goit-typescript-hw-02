@@ -1,0 +1,5 @@
+.loaderWrapper {
+  width: 120px;
+  color: var(--accent-color);
+  margin: 0 auto;
+}
